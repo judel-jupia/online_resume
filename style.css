@@ -1,0 +1,82 @@
+img{
+	border: solid black;
+	border-width: 10px;
+	border-radius: 50%;
+	width: 250px;
+	height: 250px;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+body{
+	background-color: lightblue;
+}
+.Name{
+	text-align: center;
+	background-color: white;
+	width: 500px;
+	border-radius: 20px;
+	padding: 50px;
+	margin-left: 350px;
+	margin-top: -150px;
+	margin-bottom: 150px;
+}
+.About1{
+	margin-left: 680px;
+}
+.About{
+	text-align: center;
+	background-color: white;
+	width: 400px;
+	border-radius: 20px;
+	padding: 10px;
+	margin-left: 700px;
+}
+.main_content .Name{
+	font-size: 50px;
+	font-family: Verdana;
+}
+.EducBg{
+	text-align: center;
+	background-color: white;
+	width: 400px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 20px;
+	margin-top: -500px;
+}
+.main_content2{
+	text-align: center;
+	background-color: white;
+	width: 400px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 20px;
+}
+.Skills1{
+	margin-left: 680px;
+}
+.Skills{
+	text-align: center;
+	background-color: white;
+	width: 400px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 20px;
+	margin-left: 700px;
+	margin-top: -550px;
+}
+h1{
+	font-family: Verdana;
+	color: black;
+}
+p{
+	font-size: 30px;
+	color: black;
+	background-color: lightblue;
+	border: solid;
+	border-color: black;
+	width: 400px;
+	border-radius: 20px;
+	padding: 10px;
+	margin: 20px;
+}
